@@ -11,7 +11,7 @@ if __name__ == "__main__":
     # app.run(debug=True,port=80, host='0.0.0.0')
     serve(app, host="0.0.0.0", port=80)
 
-
+# teste gerenciador de esteiras
 
 
 
